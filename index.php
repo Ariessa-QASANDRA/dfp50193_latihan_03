@@ -34,7 +34,7 @@
 
 <p>
         <?php
-        $bandar = 'Arau';
+        $bandar = 'Arau,PERLIS ';
         $baru = 'Bandar : ';
         for($x = 0; $x < strlen($bandar); $x++){
             $baru .= $bandar[$x] . " - ";
